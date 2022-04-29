@@ -13,5 +13,6 @@ module.exports = {
   rules: {
     'import/first': 'off',
     'class-methods-use-this': 'off',
+    'no-param-reassign'
   },
 };
